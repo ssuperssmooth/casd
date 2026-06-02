@@ -1,1 +1,1 @@
-all task from the kontests
+all tasks from the kontests
